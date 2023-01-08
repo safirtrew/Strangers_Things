@@ -1,0 +1,101 @@
+* {
+  justify-content: center;
+}
+
+#postBorder {
+  height: 700px;
+  width: 1000px;
+  align-content: center;
+  overflow: scroll;
+  margin: auto;
+}
+
+label {
+  padding-top: 2%;
+  margin-right: 2%;
+  color: white;
+}
+#backToProfile {
+  margin-left: 80%;
+  margin-bottom: 2%;
+}
+
+#deletePostButton {
+  margin-left: 80%;
+  margin-bottom: 2%;
+}
+
+#messageForm {
+  margin-left: 2%;
+  width: 500px;
+  margin-top: 2%;
+}
+
+#allButton {
+  margin-right: 1%;
+}
+
+#newPostButton {
+  margin-top: 2%;
+}
+/* #form2Example1{
+    margin-bottom:2%;
+    width: 500px;
+  } */
+
+#logoutImage {
+  margin: auto;
+  height: 500px;
+  width: 700px;
+}
+
+#logBackIn {
+  margin-left: 45%;
+}
+
+#viewAsGuest {
+  margin-left: 2%;
+}
+
+#loginToViewPost {
+  margin-left: 40%;
+}
+
+/* .App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */
